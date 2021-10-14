@@ -1,0 +1,4 @@
+Stage
+{
+    sh java --version
+} 
